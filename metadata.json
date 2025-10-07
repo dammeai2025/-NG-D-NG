@@ -1,0 +1,7 @@
+{
+  "name": "EngBoost: Tiếng Anh cho người đi làm-PMH",
+  "description": "Một ứng dụng học Tiếng Anh được thiết kế đặc biệt cho người đi làm bận rộn, giúp củng cố lại kiến thức nền tảng và áp dụng vào công việc hàng ngày thông qua các bài học ngắn gọn và tương tác với AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
